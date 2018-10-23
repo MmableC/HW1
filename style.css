@@ -1,9 +1,1 @@
-<html>
-<head>
-<title> Test Page </title>
-<link rel="stylesheet" type="text/css" href="style.css" />
-</head>
-<body>
-{ background: pink; }
-</body>
-</html>
+body { background: pink; }
